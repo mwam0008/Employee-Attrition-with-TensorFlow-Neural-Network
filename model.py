@@ -6,6 +6,8 @@ Uses TensorFlow / Keras neural network for binary classification
 import logging
 import numpy as np
 import pandas as pd
+os.environ["TF_USE_LEGACY_KERAS"] = "1"
+import keras
 import tensorflow as tf
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
