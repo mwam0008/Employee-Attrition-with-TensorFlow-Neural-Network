@@ -4,5 +4,4 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-keras
-tf-keras
+tensorflow==2.15.0
