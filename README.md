@@ -1,4 +1,4 @@
-# 🧠 Employee Attrition Prediction
+# Employee Attrition Prediction
 
 A Streamlit web app that predicts whether an employee will leave the company using a **TensorFlow Neural Network** (Binary Classification).
 
@@ -63,8 +63,3 @@ Output Layer → 1 neuron, Sigmoid → 0 (Stayed) or 1 (Left)
 - Python 3.8+
 - tensorflow, streamlit, pandas, numpy
 - matplotlib, seaborn, scikit-learn
-
-## Course
-
-CST2216 — Machine Learning 2: Advanced Models and Emerging Topics  
-Algonquin College
